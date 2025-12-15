@@ -1,0 +1,130 @@
+{
+    "name": "Q0",
+    "type": "folder",
+    "children": [
+        {
+            "name": ".DS_Store",
+            "type": "file",
+            "content": ""
+        },
+        {
+            "name": "Document",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "과제.txt",
+                    "type": "file",
+                    "content": "1. 미적벡 502p까지 풀기\n2. 일생실 과제 제출하기\n3. 내일까지 이 모든거 다하기\nㅠㅠ"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "system_config.txt",
+                    "type": "file",
+                    "content": "가상의 시스템 설정 파일입니다."
+                },
+                {
+                    "name": ".DS_Store",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "boot_sequence.txt",
+                    "type": "file",
+                    "content": "가상의 부팅 시퀀스 파일입니다."
+                },
+                {
+                    "name": "system.txt",
+                    "type": "file",
+                    "content": "가상의 시스템 파일입니다."
+                },
+                {
+                    "name": "kernel_log.txt",
+                    "type": "file",
+                    "content": "가상의 커널 로그 파일입니다."
+                },
+                {
+                    "name": "os.txt",
+                    "type": "file",
+                    "content": "가상의 os 파일입니다."
+                }
+            ]
+        },
+        {
+            "name": "Programs",
+            "type": "folder",
+            "children": [
+                {
+                    "name": ".DS_Store",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "descord.program",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "steam.program",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "setting.program",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "wording.program",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "mindcraft.program",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "hAcked_ToOls.program",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "BlueArchive.program",
+                    "type": "file",
+                    "content": "와! 블루아카이브 아시는구나!"
+                },
+                {
+                    "name": "virtual_code.program",
+                    "type": "file",
+                    "content": ""
+                },
+                {
+                    "name": "powerpointer.program",
+                    "type": "file",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "name": "Log",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "log.txt",
+                    "type": "file",
+                    "content": "connect xx.xxx.xx.xxx:xxxxx\nauth xxx-xx-xx-xx-xx-xx\nuser username\npass password\nmode pasv\nlcd /local/directory/path\ncd /remote/directory/path\nprompt\nmput *.txt\nbye"
+                }
+            ]
+        },
+        {
+            "name": "Downloads",
+            "type": "folder",
+            "children": []
+        }
+    ]
+}

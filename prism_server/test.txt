@@ -1,0 +1,18 @@
+# [사용자 지정] 캐릭터 정보
+character_description = "A Korean woman cosplaying as the character from this image. She has long dark blue twin-tail hair, blue eyes, and is wearing a black and white maid uniform with turquoise bow tie and accents. She is posing with [포즈 설명, 예: double peace signs] and has a glowing aqua LED halo prop floating above her head."
+
+# [사용자 지정] 원본 이미지 참조
+reference_image = "[원본 이미지 파일명]"
+
+# [고정] 프롬프트 템플릿 (스튜디오 인물 사진 스타일)
+prompt_template = f"""
+A professional portrait photograph of {character_description}.
+The shot is a close-up or upper-body portrait, captured with an 85mm prime lens at a wide aperture (f/1.4 or f/1.8).
+The background is a softly blurred studio set with cream-colored curtains, a small wooden chair, and a potted plant, creating a beautiful, creamy bokeh effect.
+Soft, warm studio lighting illuminates her face, creating sharp catchlights in her eyes and highlighting the textures of her costume and the glowing LED halo prop.
+The overall atmosphere is warm, soft, and highly detailed.
+Reference: {reference_image}
+"""
+
+# 프롬프트 출력 (복사해서 사용하세요)
+print(prompt_template)

@@ -1,0 +1,10 @@
+connect xx.xxx.xx.xxx:xxxxx
+auth xxx-xx-xx-xx-xx-xx
+user username
+pass password
+mode pasv
+lcd /local/directory/path
+cd /remote/directory/path
+prompt
+mput *.txt
+bye

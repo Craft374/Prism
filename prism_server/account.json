@@ -1,0 +1,47 @@
+{
+    "test_user": {
+        "id": "23165a1a-d36d-419f-8c1d-66107ab3af01",
+        "password_hash": "dda2d17e7b0692eb7171cfbd64abf9d28cdc4267f4d5d93f625923569bc27225",
+        "save_data": null
+    },
+    "test_user1": {
+        "id": "827cfe26-2916-496c-bd91-431156c55393",
+        "password_hash": "ebe51d50bb5688fed42c33d14fba9f20021f6c571c01ccb3dfc23da08c74b61a",
+        "save_data": null
+    },
+    "test_user3": {
+        "id": "b0b4e4c4-f517-4e2e-b852-f3d7e3b8b6be",
+        "password_hash": "6f84a7fb73125ea33f8bb0ff279a2d2d9e22f767ccfcc0e715d9c17ccec4599f",
+        "save_data": null
+    },
+    "test_user4": {
+        "id": "2be4af35-fe6d-4eda-8eef-baaff3766013",
+        "password_hash": "8fee0acaa08aee9ffdc3a7cd5845fc50e44515583d22153d490d1c75b621c1ec",
+        "save_data": null
+    },
+    "test": {
+        "id": "d168fa32-b236-4160-963e-ff82e170dd6e",
+        "password_hash": "73c56359f39608ddc3024597a7e5fe648fc425a475b9c8830548d4303cc21e55",
+        "save_data": "MQ=="
+    },
+    "qwe": {
+        "id": "16bddd59-8544-4cc5-acf4-2afe288f4414",
+        "password_hash": "2dada1e01fc1496b0239f98ede8e6cfdd5f5541f370308f7708d8f549b4b27d9",
+        "save_data": "MA=="
+    },
+    "Craft374": {
+        "id": "bbda84e0-abc1-4d64-978f-e29d6bbf7e51",
+        "password_hash": "9705a9d7de2df373684bb89e1fc19daa1dc5fc9806960c5008c02b4a1885d885",
+        "save_data": "MA=="
+    },
+    "qaz": {
+        "id": "94a5e038-c34c-4b3e-b264-627e82a14414",
+        "password_hash": "2b4cdddd41c3d84eb34d1b4b04eb2af3be33718328b12ad9b2bd3845f7aaf342",
+        "save_data": "MA=="
+    },
+    "ttest": {
+        "id": "cc171329-bc5f-42b2-8d71-28227bd86dc7",
+        "password_hash": "950b4a4c73c6ea12834db143f8b8b03cef2b2e9167928de6ec423fe8d2ed6411",
+        "save_data": "MA=="
+    }
+}

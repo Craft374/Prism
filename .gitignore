@@ -17,3 +17,4 @@ client/Client/Assets/StreamingAssets
 /api_server
 echo "<api_server>/" >> .gitignore
 client/Client/Assets/Script
+client/Client/Build
